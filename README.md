@@ -26,18 +26,18 @@ By using this predictive model, X Education intends to enhance their lead conver
 
 ### Conclusion:
 
-Evaluation Martics: 
-    Train Data Accuracy, Sensitivity and Specificity
-    1. Accuracy    : 79.27%
-    2. Sensitivity : 80.61%
-    3. Specificity : 78.45%
-    Test Data Accuracy, Sensitivity and Specificity
-    1. Accuracy    : 78.89%
-    2. Sensitivity : 83.25%
-    3. Specificity : 76.20%
+#### Evaluation Martics: 
+     Train Data Accuracy, Sensitivity and Specificity
+        1. Accuracy    : 79.27%
+        2. Sensitivity : 80.61%
+        3. Specificity : 78.45%
+     Test Data Accuracy, Sensitivity and Specificity
+        1. Accuracy    : 78.89%
+        2. Sensitivity : 83.25%
+        3. Specificity : 76.20%
     
     
-Lead Count for Different Lead Score 
+#### Lead Count for Different Lead Score 
     1. Number of rows with Lead_score > 90: 228 counts 
     2. Number of rows with Lead_score > 80: 429 counts 
     3. Number of rows with Lead_score > 70: 578 counts 
